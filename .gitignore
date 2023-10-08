@@ -1,0 +1,8 @@
+.env
+.env.backup
+/node_modules
+/.idea
+/.vscode
+screenshot.png
+src/screenshots
+src/data
